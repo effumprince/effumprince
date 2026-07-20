@@ -38,7 +38,7 @@ I build clean, responsive, and engaging web experiences with modern technologies
 
 ## 🌍 Let’s Connect
 
-- 💼 Portfolio: _Coming Soon_
+- 💼 Portfolio:https://israel-effum.vercel.app/
 - 🔗 LinkedIn: https://www.linkedin.com/in/israel-prince-effum-7aaa6a35b/
 - 📧 Email: effumisrael145@gmail.com
 
